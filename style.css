@@ -121,26 +121,26 @@ body {
     font-weight: 400;
 }
 
-.projectIcon {
+.projectIcons {
     display: flex;
     justify-content: space-evenly;
     font-size: 1.2rem;
     margin-top: 2rem;
 }
 
-.projectIcon p {
+.projectIcons p {
     margin: 0 0 1rem 0;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
 }
 
 .fa-github {
-    font-size: 2.1rem;
-    padding: 1.4rem;
+    font-size: 2.2rem;
+    padding: 1.5rem;
 }
 
 .fa-file {
-    font-size: 2.1rem;
-    padding: 1.4rem;
+    font-size: 2.2rem;
+    padding: 1.5rem;
 }
 
 footer {
